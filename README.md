@@ -3,7 +3,6 @@
 - 🌱 Estou estudando front-end com foco em JavaScript e React
 
 <div>
-  <a href="https://beacons.ai/gustavofranceschini">
   <img heigth="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=gustavofranceschini&count_private=true&show_icons=true&theme=merko"/>
   <img heigth="180em" width="38%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofranceschini&layout=compact&theme=merko"/>
 </div>
