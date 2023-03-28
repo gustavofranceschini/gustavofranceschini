@@ -3,10 +3,17 @@
 - 📚 Estou estudando desenvolvimento, atualmente com foco em Front-End
 
 <div>
-  <img heigth="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=gustavofranceschini&count_private=true&show_icons=true&theme=merko"/>
-  <img heigth="180em" width="38%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofranceschini&layout=compact&theme=merko"/>
+  <img heigth="180em" width="59%" src="https://github-readme-stats.vercel.app/api?username=gustavofranceschini&count_private=true&show_icons=true&theme=merko"/>
+  <img heigth="180em" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofranceschini&langs_count=10&hide_progress=true&layout=compact&theme=merko"/>
 </div>
   
+  ##
+  <div>
+  <h3>Sobre mim</h3>
+  <p>
+    Olá. Meu nome é Gustavo Franceschini de Araújo. Atualmente trabalho como Analista de Suporte Técnico. Buscando conhecimento em desenvolvimento, no momento focado no Front-End, porém procuro me tornar <strong><em>Desenvolvedor FullStack</em></strong> futuramente. Aqui eu procuro demonstrar os meus conhecimentos, habilidades e todo meu desempenho nos estudos. 😉💻📚✏
+  </p>
+  </div>
   
  <div style="display: inline_block"><br>
    <h2>Conhecimentos e linguagens que estou estudando</h2>
