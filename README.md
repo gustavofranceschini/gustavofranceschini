@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gustavo Franceschini
-- 🔭 Hoje trabalho como Analista de Suporte Técnico
-- 🌱 Estou estudando front-end com foco em JavaScript e React
+- 💻 Hoje trabalho como Analista de Suporte Técnico
+- 📚 Estou estudando desenvolvimento, atualmente com foco em Front-End
 
 <div>
   <img heigth="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=gustavofranceschini&count_private=true&show_icons=true&theme=merko"/>
