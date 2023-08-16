@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gustavo Franceschini
 - 💻 Hoje trabalho como Analista de Suporte Técnico
-- 📚 Estou estudando desenvolvimento, atualmente com foco em Front-End
+- 📚 Estou estudando desenvolvimento com foco em <strong>Java</strong>.
 
 <div>
   <img heigth="180em" width="59%" src="https://github-readme-stats.vercel.app/api?username=gustavofranceschini&count_private=true&show_icons=true&theme=merko"/>
@@ -11,7 +11,7 @@
   <div>
   <h3>Sobre mim</h3>
   <p>
-    Olá. Meu nome é Gustavo Franceschini de Araújo. Atualmente trabalho como Analista de Suporte Técnico. Buscando conhecimento em desenvolvimento, no momento focado no Front-End, porém procuro me tornar <strong><em>Desenvolvedor FullStack</em></strong> futuramente. Aqui eu procuro demonstrar os meus conhecimentos, habilidades e todo meu desempenho nos estudos. 😉💻📚✏
+    Olá. Meu nome é Gustavo Franceschini de Araújo. Atualmente trabalho como Analista de Suporte Técnico. Buscando conhecimento em desenvolvimento, no momento focado no Back-End, com <strong>Java</strong>, porém procuro me tornar <strong><em>Desenvolvedor FullStack</em></strong> futuramente. Aqui eu procuro demonstrar os meus conhecimentos, habilidades e todo meu desempenho nos estudos. 😉💻📚✏
   </p>
   </div>
   
