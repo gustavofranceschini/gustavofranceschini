@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Gustavo Franceschini
-- 💻 Hoje trabalho como Analista de Suporte Técnico
+- 💻 Hoje trabalho como Analista de Suporte Técnico na <strong>Autbank</strong>.
 - 📚 Estou estudando desenvolvimento com foco em <strong>Java</strong>.
 
 <div>
